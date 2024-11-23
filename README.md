@@ -3,9 +3,16 @@
 Flux is a modern social media platform designed for real-time, dynamic communication. It brings the best of microblogging and community engagement, making it a perfect place to share ideas, discover trends, and connect with others. Inspired by platforms like Threads and Twitter (X), Flux delivers a seamless and friendly user experience.  
 
 ---
-##Live Application
+## Live Application
 - https://flux-59yw.onrender.com
 - Feel free to develop the changes and raise a pull request.
+
+## Demo
+![Screenshot 2024-11-22 142207](https://github.com/user-attachments/assets/e136af04-67ed-4d4d-a635-bb1590f084b6)
+![Screenshot 2024-11-22 142236](https://github.com/user-attachments/assets/eb5abe5a-b752-4e36-8fa3-fb41735f5021)
+![Screenshot 2024-11-23 141649](https://github.com/user-attachments/assets/3ca63eba-22e0-4bfe-b67e-ff0a86e42972)
+![Screenshot 2024-11-23 141708](https://github.com/user-attachments/assets/4848b253-f441-49a5-8570-5dd7e0690971)
+![Screenshot 2024-11-23 141755](https://github.com/user-attachments/assets/9d7078de-1093-471c-8077-b17256ce0ddf)
 
 ##  Features  
 
