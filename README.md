@@ -4,7 +4,7 @@ Flux is a modern social media platform designed for real-time, dynamic communica
 
 ---
 ## Live Application
-- https://flux-59yw.onrender.com
+- Try live application here: [Flux](https://flux-59yw.onrender.com)
 - Feel free to develop the changes and raise a pull request.
 
 ## Demo
